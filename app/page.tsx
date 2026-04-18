@@ -1,3 +1,4 @@
+// app/page.tsx
 npx shadcn@latest add https://21st.dev/r/sshahaider/hero-3
 import { HeroSection } from "@/components/ui/hero-3";
 import { Header } from "@/components/ui/header-3"; // @efferd/header-3
